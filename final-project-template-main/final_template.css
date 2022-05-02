@@ -1,0 +1,23 @@
+/*This is the CSS page for our final template.*/
+
+.footer p {
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 0;
+}
+p{
+	font-family: 'Inconsolata', monospace;
+}
+
+.header {
+	height: 90px;
+	font-weight: 50px;
+	background-color: black;
+	color: whitesmoke;
+	text-align: center;
+}
+
+h3 {
+	height: 30px;
+}
